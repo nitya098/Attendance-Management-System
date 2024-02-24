@@ -1,0 +1,6 @@
+nitya 1001 1 0 0
+noorbasha 1001 1 0 0
+neha 1002 1 0 0
+poojaa 2001 2 0 0
+poorni 3001 3 0 0
+tresha 3001 3 0 0
